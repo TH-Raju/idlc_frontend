@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Let's explore [IDLC]()
 
-## Getting Started
+## how start working on this project
 
-First, run the development server:
+### prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- install node and git/github
+- Create a folder and open cmd and run this command
+
+```
+https://github.com/TH-Raju/idlc_frontend.git
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- and then Install node packages run this
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+npm i
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- and now start working on file
+-
+-
+- After working on project,
+- create branch and push code on your branch
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Not on Main branch
