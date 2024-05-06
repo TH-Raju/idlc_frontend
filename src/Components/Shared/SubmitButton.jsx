@@ -3,7 +3,6 @@ import { Button } from "antd";
 import React from "react";
 
 const SubmitButton = ({ title }) => {
-  // Destructure title from props
   return (
     <Button
       htmlType="submit"
