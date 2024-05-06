@@ -3,7 +3,7 @@ import React from "react";
 
 const ContactUsPage = () => {
   return (
-    <div>
+    <div className="mt-20">
       <ContactUs />
     </div>
   );
