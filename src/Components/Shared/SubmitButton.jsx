@@ -8,7 +8,7 @@ const SubmitButton = ({ title }) => {
     <Button
       htmlType="submit"
       className="w-full border-none font-bold uppercase"
-      style={{ backgroundColor: "#ffe6b9", color: "black" }}
+      style={{ backgroundColor: "#0A6847", color: "white" }}
     >
       {title} {/* Access title as a string */}
     </Button>
