@@ -1,30 +1,21 @@
-# Let's explore [IDLC]()
+# Let's explore [IDLC](https://idlc.netlify.app/)
 
 ## how start working on this project
 
-### prerequisites
+- npm i
+- npm run dev (to run server)
+- ctrl +c (to stop server)
 
-- install node and git/github
-- Create a folder and open cmd and run this command
-- ```
-  https://github.com/TH-Raju/idlc_frontend.git
-  ```
+# Technology
 
-```
+## Frontend
 
-- and then Install node packages run this
+- Next.js | Tailwind CSS | Ant-D | React-icons
 
-```
+## Backend
 
-npm i
+- Node.js | Express.js | Mongoose (for database queries)
 
-```
+# Database
 
-- and now start working on file
--
--
-- After working on project,
-- create branch and push code on your branch
-
-# Not on Main branch
-```
+- MongoDB
